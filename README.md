@@ -33,6 +33,8 @@
 
 - 📫   How to reach me **parthdbr@gmail.com**
 
+- 💻   You can view all **my projects** by clicking on this [link](https://github.com/parthdbr?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
+
 
 
 <!-- ### Hey Folks! 👋
