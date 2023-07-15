@@ -54,7 +54,9 @@
 
 </p>
 
+<br>
 
+<p><img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthdbr&theme=gruvbox&layout=compact"/></p>
 
 
 
