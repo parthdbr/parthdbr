@@ -19,6 +19,9 @@
 
 <h3 align="center">A software engineer from India.</h3>
 
+<p align="center">I'm a full stack software engineer and developer. I enjoy making web applications and softwares as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
+
+
 
 
 
