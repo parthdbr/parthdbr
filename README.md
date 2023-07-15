@@ -13,6 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=parthdbr&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Parth!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+</h1>
 
 
 
