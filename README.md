@@ -57,7 +57,8 @@
 <br>
 <div>
 <p><img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthdbr&theme=gruvbox&layout=compact"/></p>
-
+</div>
+<div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthdbr&" alt="parthdbr" /></p>
 </div>
 
