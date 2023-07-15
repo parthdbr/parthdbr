@@ -45,6 +45,10 @@
 <img width="50" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img width="50" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img  width="50" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
 
 <!-- ### Hey Folks! 👋
 
