@@ -52,10 +52,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="35"/>
 <img width="50" height"35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"/>
 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthdbr&show_icons=true&locale=en&layout=compact" alt="parthdbr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthdbr&show_icons=true&locale=en" alt="parthdbr" /></p>
 
 
 
