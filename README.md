@@ -1,8 +1,5 @@
-<head>
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-</head>
-<body>
 
 
 <div id="header" align="center">
@@ -11,7 +8,7 @@
 
 <div id="badges" align="center>
   <a href="https://www.linkedin.com/in/parth-dobariya/">
-    <i class="bi bi-linkedin"></i>
+    &#xF5EF;
   </a>
 
   <a href="">
@@ -39,5 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</body>
