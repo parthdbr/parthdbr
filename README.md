@@ -21,7 +21,17 @@
 
 <p align="center">I'm a full stack software engineer and developer. I enjoy making web applications and softwares as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
+<img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
+- 👨🏽‍💻   **Full-Stack Software Engineer** currently looking for new opportunities.
+
+- 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
+
+- 🌱   I’m currently learning **Flutter and Rest API**
+
+- 🗓    Ask me about **JavaScript**, **React.js**, and **Java**.
+
+- 📫   How to reach me **parthdbr@gmail.com**
 
 
 
