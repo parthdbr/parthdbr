@@ -54,7 +54,7 @@
 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthdbr&show_icons=true&locale=en&layout=compact" alt="parthdbr" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthdbr&show_icons=true&locale=en&layout=compact" alt="parthdbr" /></p>
 
 
 
