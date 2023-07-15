@@ -17,7 +17,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Parth!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
 
-<h3 align="center">A software engineer and audio engineer from India.</h3>
+<h3 align="center">A software engineer from India.</h3>
 
 
 
