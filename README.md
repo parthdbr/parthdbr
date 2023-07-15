@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/parth-dobariya/">
     &#xF5EF;
   </a>
