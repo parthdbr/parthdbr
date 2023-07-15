@@ -43,6 +43,7 @@
   <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width="50" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img width="50" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 
 <!-- ### Hey Folks! 👋
 
