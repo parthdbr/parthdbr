@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/parth-dobariya/">
-    &#xF5EF;
+    <i class="bi bi-twitter"></i>
   </a>
 
   <a href="">
