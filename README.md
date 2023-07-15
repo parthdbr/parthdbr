@@ -17,7 +17,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Parth!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
 
-<h3 align="center">A software engineer from India.</h3>
+<h3 align="center">A software engineer and developer from India.</h3>
 
 <p align="center">I'm a full stack software engineer and developer. I enjoy making web applications and softwares as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
