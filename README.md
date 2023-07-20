@@ -27,7 +27,7 @@
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🌱   I’m currently learning **Flutter and Rest API**
+- 🌱   I’m currently learning **React Native and Rest API**
 
 - 🗓    Ask me about **JavaScript**, **React.js**, and **Java**.
 
