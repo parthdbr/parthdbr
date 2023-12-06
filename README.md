@@ -28,9 +28,9 @@
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🌱   I’m currently learning **React Native and Rest API**
+- 🌱   I’m currently learning **Springboot and Rest API**
 
-- 🗓    Ask me about **JavaScript**, **React.js**, and **Java**.
+- 🗓    Ask me about **JavaScript**, **Springboot**, **React.js**, and **Java**.
 
 - 📫   How to reach me **parthdbr@gmail.com**
 
